@@ -1,0 +1,25 @@
+payment Method,Subscriber Type,Notification Method,Tax Exemption
+Bank transfer (automatic),Postpaid,Email,358
+Bank transfer (automatic),Postpaid,Phone,286
+Bank transfer (automatic),Postpaid,SMS,294
+Bank transfer (automatic),Prepaid,Email,197
+Bank transfer (automatic),Prepaid,Phone,215
+Bank transfer (automatic),Prepaid,SMS,194
+Credit card (automatic),Postpaid,Email,348
+Credit card (automatic),Postpaid,Phone,289
+Credit card (automatic),Postpaid,SMS,266
+Credit card (automatic),Prepaid,Email,199
+Credit card (automatic),Prepaid,Phone,213
+Credit card (automatic),Prepaid,SMS,207
+Electronic check,Postpaid,Email,691
+Electronic check,Postpaid,Phone,433
+Electronic check,Postpaid,SMS,462
+Electronic check,Prepaid,Email,272
+Electronic check,Prepaid,Phone,235
+Electronic check,Prepaid,SMS,272
+Mailed check,Postpaid,Email,414
+Mailed check,Postpaid,Phone,306
+Mailed check,Postpaid,SMS,249
+Mailed check,Prepaid,Email,216
+Mailed check,Prepaid,Phone,225
+Mailed check,Prepaid,SMS,202
